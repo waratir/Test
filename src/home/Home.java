@@ -9,6 +9,7 @@ public class Home {
         name1.b = 100;
         name1.c = 200;
         System.out.println(name1.light());
+        System.out.println(" hohoh ");
 //
     }
 
